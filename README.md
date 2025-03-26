@@ -4,3 +4,6 @@ A fully responsive React application designed to calculate investment growth ove
 investment, annual contributions, investment duration, and expected annual return. The application dynamically
 generates a detailed yearly breakdown, displaying total contributions, accumulated interest, and overall portfolio
 value, providing valuable insights for financial planning
+
+
+![screenshot](public/screenshot.png)
